@@ -1,0 +1,14 @@
+﻿  main.cpp
+  Bitmap.cpp
+  Camera.cpp
+  Program.cpp
+  Shader.cpp
+  Texture.cpp
+  platform_windows.cpp
+  正在生成代码...
+  glew.c
+  04_camera.vcxproj -> E:\assignment\opengl-series-master\Build\homework1\Debug\homework1.exe
+  Copies resources into same directory as built executable
+  系统找不到指定的路径。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: 命令“ copy "E:\assignment\opengl-series-master\source\homework1\resources\*" "E:\assignment\opengl-series-master\Build\homework1\Debug\\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd”已退出，代码为 1。
